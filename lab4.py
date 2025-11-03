@@ -19,4 +19,3 @@ def throw_rock (m, v0, theta):
     return tf, R, hm, vh, Kh
 
 myresult = throw_rock(1.5, 0.3, 35.20)
-
